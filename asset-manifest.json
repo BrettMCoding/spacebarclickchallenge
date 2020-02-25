@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/spacebarclickchallenge/static/css/main.d1b05096.chunk.css",
+    "main.js": "/spacebarclickchallenge/static/js/main.3c6704e7.chunk.js",
+    "main.js.map": "/spacebarclickchallenge/static/js/main.3c6704e7.chunk.js.map",
+    "runtime-main.js": "/spacebarclickchallenge/static/js/runtime-main.a5e3834f.js",
+    "runtime-main.js.map": "/spacebarclickchallenge/static/js/runtime-main.a5e3834f.js.map",
+    "static/js/2.20b2eabe.chunk.js": "/spacebarclickchallenge/static/js/2.20b2eabe.chunk.js",
+    "static/js/2.20b2eabe.chunk.js.map": "/spacebarclickchallenge/static/js/2.20b2eabe.chunk.js.map",
+    "index.html": "/spacebarclickchallenge/index.html",
+    "precache-manifest.27d82fdbcb21652546b71b38a826ed7a.js": "/spacebarclickchallenge/precache-manifest.27d82fdbcb21652546b71b38a826ed7a.js",
+    "service-worker.js": "/spacebarclickchallenge/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/spacebarclickchallenge/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.20b2eabe.chunk.js.LICENSE.txt": "/spacebarclickchallenge/static/js/2.20b2eabe.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/spacebarclickchallenge/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a5e3834f.js",
+    "static/js/2.20b2eabe.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.3c6704e7.chunk.js"
+  ]
+}

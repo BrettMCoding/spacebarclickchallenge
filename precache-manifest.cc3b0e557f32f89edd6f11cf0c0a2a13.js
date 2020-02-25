@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e02c43ec6ee0bc7f6cc599ad8c2b6a75",
+    "revision": "f666c9fb60139e12b6588343c083500b",
     "url": "/spacebarclickchallenge/index.html"
   },
   {
-    "revision": "54ecd4c118546564ca0d",
-    "url": "/spacebarclickchallenge/static/css/main.d1b05096.chunk.css"
+    "revision": "44ae3c84d37d8ecc2419",
+    "url": "/spacebarclickchallenge/static/css/main.9c4351ce.chunk.css"
   },
   {
     "revision": "d6dffb7c39a967bffe32",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/spacebarclickchallenge/static/js/2.2a8d3851.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "54ecd4c118546564ca0d",
-    "url": "/spacebarclickchallenge/static/js/main.ac304953.chunk.js"
+    "revision": "44ae3c84d37d8ecc2419",
+    "url": "/spacebarclickchallenge/static/js/main.2c7d959e.chunk.js"
   },
   {
     "revision": "a53ce111a21bf1b169b2",
